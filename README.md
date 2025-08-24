@@ -8,13 +8,19 @@
 
 ---
 
+## 👨‍💻 Who Am I?
+I'm **Abhijith**, a passionate **Full-Stack Developer** specializing in **React & Golang**.  
+I enjoy building scalable applications, solving real-world problems, and constantly exploring new technologies.  
+
+---
+
 ## 🚀 About Me  
 
 - 🎓 Currently learning at **Bridgeon Institution**  
 - 🌱 Exploring **React, Go, and Modern JavaScript**  
 - 💻 Passionate about **Full-Stack Development & Problem Solving**  
 - 📫 Reach me at: **abhijithpr366@gmail.com**  
-- ⚡ Fun fact: I enjoy building projects that **solve real-world problems**  
+- ⚡ Fun fact: Coffee + Code = ❤️  
 
 ---
 
@@ -37,8 +43,37 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,go,cpp,c,git,arduino" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,go,ts,nextjs,cpp,c,git,arduino" alt="Tech Stack" />
 </p>
+
+---
+
+## 🚀 Featured Projects  
+
+- 🛒 [Furniture E-commerce](https://github.com/abhijith232373/furniture-app)  
+  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />  
+
+- 💬 [Real-Time Chat App](https://github.com/abhijith232373/chat-app)  
+  <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" />  
+  <img src="https://img.shields.io/badge/-WebSocket-orange?logo=websocket&logoColor=white" />  
+
+---
+
+## 📚 2025 Goals  
+
+- Master **TypeScript & Next.js**  
+- Contribute to **Open Source Projects**  
+- Build a **SaaS Product with Go + React**  
+- Improve **DSA & Problem-Solving Skills**  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 Solved **300+ problems** on LeetCode  
+- 🎖️ Participated in **Hacktoberfest 2024**  
+- 📜 Certified in **React & Modern JavaScript**  
 
 ---
 
@@ -56,6 +91,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhijith232373&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijith232373&theme=github-dark&hide_border=true" />
+</p>
+
 ---
 
 ## 🧠 Currently Exploring  
@@ -63,7 +102,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-React-blue?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Fullstack-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Exploring-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
+
+---
+
+## ⚡ In My Free Time  
+
+- 🏋️‍♂️ Hit the gym at 6 AM  
+- 🎮 Play story-driven games  
+- ✍️ Write about my coding journey  
+- ☕ Experiment with new coffee recipes  
 
 ---
 
