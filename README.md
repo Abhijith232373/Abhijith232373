@@ -43,39 +43,12 @@ I enjoy building scalable applications, solving real-world problems, and constan
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,go,ts,nextjs,cpp,c,git,arduino" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,go,git,arduino" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🚀 Featured Projects  
 
-- 🛒 [Furniture E-commerce](https://github.com/abhijith232373/furniture-app)  
-  <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />  
-
-- 💬 [Real-Time Chat App](https://github.com/abhijith232373/chat-app)  
-  <img src="https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white" />  
-  <img src="https://img.shields.io/badge/-WebSocket-orange?logo=websocket&logoColor=white" />  
-
----
-
-## 📚 2025 Goals  
-
-- Master **TypeScript & Next.js**  
-- Contribute to **Open Source Projects**  
-- Build a **SaaS Product with Go + React**  
-- Improve **DSA & Problem-Solving Skills**  
-
----
-
-## 🏆 Achievements  
-
-- 🥇 Solved **300+ problems** on LeetCode  
-- 🎖️ Participated in **Hacktoberfest 2024**  
-- 📜 Certified in **React & Modern JavaScript**  
-
----
 
 ## 📊 GitHub Insights  
 
