@@ -43,7 +43,7 @@ I enjoy building scalable applications, solving real-world problems, and constan
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redex" alt="Tech Stack" />
 </p>
 
 ---
