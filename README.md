@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhijith+PR" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijith232373&label=Profile+views&color=58A6FF&style=flat-square" alt="Profile views" />
-</p>
-
----
 
 ## 👨‍💻 Who Am I?
 I'm **Abhijith**, a passionate **Full-Stack Developer** specializing in **React & Golang**.  
