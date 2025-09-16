@@ -14,7 +14,7 @@ I enjoy building scalable applications, solving real-world problems, and constan
 ##  About Me  
 
 - Currently learning at **Bridgeon Institution**  
--  Exploring **React, Go, and Modern JavaScript**  
+-  Exploring **React, and Modern JavaScript**  
 -  Passionate about **Full-Stack Development & Problem Solving**  
 -  Reach me at: **abhijithpr366@gmail.com**  
 -  Fun fact: Coffee + Code = ❤️  
@@ -74,17 +74,9 @@ I enjoy building scalable applications, solving real-world problems, and constan
 
 
 
----
+##
 
-##  Currently Exploring  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-React-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Exploring-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
----
+##
 
 ##  In My Free Time  
 
