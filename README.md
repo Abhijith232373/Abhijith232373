@@ -3,23 +3,34 @@
 </h1>
 
 
-## 👨‍💻 Who Am I?
+## WHO AM I ?
 I'm **Abhijith**, a passionate **Full-Stack Developer** specializing in **React & Golang**.  
 I enjoy building scalable applications, solving real-world problems, and constantly exploring new technologies.  
 
----
+##
 
-## 🚀 About Me  
+##
 
-- 🎓 Currently learning at **Bridgeon Institution**  
-- 🌱 Exploring **React, Go, and Modern JavaScript**  
-- 💻 Passionate about **Full-Stack Development & Problem Solving**  
-- 📫 Reach me at: **abhijithpr366@gmail.com**  
-- ⚡ Fun fact: Coffee + Code = ❤️  
+##  About Me  
 
----
+- Currently learning at **Bridgeon Institution**  
+-  Exploring **React, Go, and Modern JavaScript**  
+-  Passionate about **Full-Stack Development & Problem Solving**  
+-  Reach me at: **abhijithpr366@gmail.com**  
+-  Fun fact: Coffee + Code = ❤️  
 
-## 🌐 Connect with Me  
+##
+
+##
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijith232373&theme=github-dark&hide_border=true" />
+</p>
+
+##
+
+##  Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/abhijith-p-r--" target="_blank">
@@ -33,9 +44,11 @@ I enjoy building scalable applications, solving real-world problems, and constan
   </a>
 </p>
 
----
+##
 
-## 💻 Tech Stack  
+##
+
+## Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redex" alt="Tech Stack" />
@@ -45,7 +58,7 @@ I enjoy building scalable applications, solving real-world problems, and constan
 
 
 
-## 📊 GitHub Insights  
+## GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhijith232373&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
@@ -59,13 +72,11 @@ I enjoy building scalable applications, solving real-world problems, and constan
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhijith232373&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijith232373&theme=github-dark&hide_border=true" />
-</p>
+
 
 ---
 
-## 🧠 Currently Exploring  
+##  Currently Exploring  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-React-blue?style=for-the-badge&logo=react&logoColor=white" />
@@ -75,12 +86,12 @@ I enjoy building scalable applications, solving real-world problems, and constan
 
 ---
 
-## ⚡ In My Free Time  
+##  In My Free Time  
 
-- 🏋️‍♂️ Hit the gym at 6 AM  
-- 🎮 Play story-driven games  
-- ✍️ Write about my coding journey  
-- ☕ Experiment with new coffee recipes  
+-  Hit the gym at 6 AM  
+-  Play story-driven games  
+-  Write about my coding journey  
+-  Experiment with new coffee recipes  
 
 ---
 
