@@ -44,11 +44,6 @@ I enjoy building scalable applications, solving real-world problems, and constan
 
 ---
 
-## Contribution Graph Snake  
-
-<p align="center">
-  <img src="https://github.com/abhijith232373/abhijith232373/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
