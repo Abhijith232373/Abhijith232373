@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abhijith+PR;Full-Stack+Developer+|+React+%26+Golang" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abhijith+PR;|+React+%26+Golang" alt="Typing SVG" />
 </h1>
 
 ---
@@ -25,10 +25,6 @@ I enjoy building scalable applications, solving real-world problems, and constan
 ---
 
 ## GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith232373&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
