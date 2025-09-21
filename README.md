@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abhijith+PR;|+React+%26+Golang" alt="Typing SVG" />
 </h1>
 
-----
+-----
 
 ## About Me  
 
