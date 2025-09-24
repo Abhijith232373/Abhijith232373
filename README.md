@@ -1,96 +1,76 @@
-<!-- Animated Intro Typing -->
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=650&lines=Hi%20I%27m%20Abhijith%20PR" alt="Typing animation: Hi I'm Abhijith PR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhijith+PR;Full+Stack+Developer;React+%2B+Golang+Specialist" alt="Typing Animation" />
 </p>
 
-
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
-</p>
-
-<!-- Animated Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2C3E50&height=120&section=header" />
+<!-- Wave Animation (Header) -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2C3E50&height=100&section=header" /> -->
 
 ---
-
-## 🚀 About Me  
-
-💡 Passionate **Full-Stack Developer** specialized in **React & Golang**  
-📚 Currently learning at **Bridgeon Institution**  
-⚛️ Exploring **Modern JavaScript, Redux, Tailwind**  
-🔥 Interested in **Scalable Web Apps & Problem Solving**  
-📬 Reach me: **abhijithpr366@gmail.com**  
-
----
-
-## 🛠 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,golang,nodejs,express,mongodb,git,github,docker" height="50" />
-</p>
-
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith232373&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
----
+## Profile Highlights  
 
-## 🧩 Extra Functional Widgets  
-
-### ⏳ Coding Time Tracker  
-<!-- Tracks your coding activity with WakaTime -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhijithpr&theme=tokyonight&layout=compact&hide_border=true" height="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" height="180" />
 </p>
 
-### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijith232373&theme=tokyonight&margin-w=10&margin-h=10&column=7&no-frame=true" />
-</p>
-
-### 📈 Visitor Counter  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Abhijith232373/count.svg" alt="Visitor Count" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijith232373&theme=tokyonight" />
 </p>
 
 ---
+## GitHub Insights  
 
-## 🌐 Connect With Me  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+## Tech Stack  
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github" height="50" />
+</p>
+
+## About Me  
+
+Full-Stack Developer specialized in **React & Golang**  
+Focused on **scalable applications, clean architecture, and problem solving**  
+Passionate about **modern JavaScript, Redux, and Tailwind**  
+Always learning and building impactful solutions  
+
+---
+
+---
+
+
+<!-- Contribution Graph -->
+
+---
+
+
+## Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/abhijith-p-r--" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/_.abhi_jith_._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://leetcode.com/abhijith_pr" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_.abhi_jith_._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎉 Fun Facts  
+<!-- Closing Banner -->
+<h3 align="center">Let's Collaborate and Build Something Impactful</h3>
 
-- 🏋️ Hit the gym **6 AM**  
-- 🎮 Love **story-driven games**  
-- ✍️ Documenting my **coding journey**  
-- ☕ Always experimenting with **coffee recipes**  
-
----
-
-<h3 align="center">✨ Let's Collaborate & Build Something Impactful ✨</h3>
-
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:36BCF7&height=120&section=footer" />
