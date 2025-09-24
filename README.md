@@ -1,7 +1,8 @@
 <!-- Animated Intro Typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Abhijith+PR;Full+Stack+Developer;React+%2B+Golang+Specialist;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing Animation" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&width=650&lines=Hi%20I%27m%20Abhijith%20PR" alt="Typing animation: Hi I'm Abhijith PR" />
+</p>
+
 
 <!-- Hero Banner -->
 <p align="center">
