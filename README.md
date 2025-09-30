@@ -48,9 +48,6 @@ Always learning and building impactful solutions
 
 ---
 
-
-<!-- Contribution Graph -->
-
 ---
 
 
