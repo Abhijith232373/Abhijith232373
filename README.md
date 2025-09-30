@@ -67,7 +67,6 @@ Always learning and building impactful solutions
 
 ---
 
-<!-- Closing Banner -->
 <h3 align="center">Let's Collaborate and Build Something Impactful</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:36BCF7&height=120&section=footer" />
