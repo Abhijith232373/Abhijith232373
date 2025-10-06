@@ -10,6 +10,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith232373&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
+## GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 ## Profile Highlights  
 
 <p align="center">
@@ -22,12 +28,7 @@
 </p>
 
 ----
-## GitHub Insights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 ## Tech Stack  
 
