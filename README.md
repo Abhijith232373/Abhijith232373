@@ -5,7 +5,7 @@
 </p>
 
 
-----
+---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith232373&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </p>
@@ -27,7 +27,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijith232373&theme=tokyonight" />
 </p>
 
-----
+---
 
 
 ## Tech Stack  
