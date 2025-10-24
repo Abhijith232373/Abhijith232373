@@ -6,9 +6,9 @@
 
 
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith232373&theme=react-dark&hide_border=true&bg_color=0D1117" />
-</p>
+</p> -->
 
 ## GitHub Insights  
 <p align="center">
