@@ -3,14 +3,17 @@
 
 <!-- Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2C3E50&height=100&section=header" /> 
+<img align="right" src="goimg-removebg-preview.png" width="120px">
 
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhijith+PR;Full+Stack+Developer;React+%2B+Golang+Specialist" alt="Typing Animation" />
 </p>
-<img align="right" src="goimg-removebg-preview.png" width="120px">
 
----
+
+
+
+
 
 ## 🚀 GitHub Insights  
 <p align="center">
