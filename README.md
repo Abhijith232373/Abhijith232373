@@ -23,7 +23,10 @@
 
 ---
 
+
 ## 🧠 Profile Highlights  
+<img align="right" src="go2-removebg-preview.png" width="120px"/>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" height="180" />
