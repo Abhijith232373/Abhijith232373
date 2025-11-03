@@ -32,9 +32,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" height="180" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijith232373&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
