@@ -11,12 +11,12 @@
 </p>
 
 ---
-## 📈 Contribution Graph Animation  
+##  CONTRIBUTION GRAPH   
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith232373&theme=react-dark&hide_border=true&bg_color=0D1117&line=36BCF7&point=2C3E50&area=true" width="95%" />
 </p>
 
-## 🚀 GitHub Insights  
+<!--## 🚀 GitHub Insights  -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="170" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 Profile Highlights  
+<!--## 🧠 Profile Highlights -->  
 <img align="right" src="go2-removebg-preview.png" width="120px"/>
 
 <p align="center">
@@ -34,14 +34,14 @@
 
 ---
 
-## 💻 Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,go,md" height="50" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 Full-Stack Developer specialized in **React & Golang**  
 Focused on **scalable applications, clean architecture, and problem solving**  
 Passionate about **modern JavaScript, Redux, and Tailwind**  
@@ -52,7 +52,7 @@ Always learning and building impactful solutions
 
 ---
 
-## 🌐 Connect  
+##  Connect ME ON 
 <p align="center">
   <a href="https://linkedin.com/in/abhijith-p-r--" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
