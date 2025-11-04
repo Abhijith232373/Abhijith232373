@@ -10,10 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhijith+PR;Full+Stack+Developer;React+%2B+Golang+Specialist" alt="Typing Animation" />
 </p>
 
-
-
-
-
+---
+## 📈 Contribution Graph Animation  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith232373&theme=react-dark&hide_border=true&bg_color=0D1117&line=36BCF7&point=2C3E50&area=true" width="95%" />
+</p>
 
 ## 🚀 GitHub Insights  
 <p align="center">
@@ -23,7 +24,6 @@
 
 ---
 
-
 ## 🧠 Profile Highlights  
 <img align="right" src="go2-removebg-preview.png" width="120px"/>
 
@@ -31,10 +31,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" height="180" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" height="180" />
 </p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhijith232373&theme=tokyonight" />
-</p> -->
 
 ---
 
@@ -50,6 +46,9 @@ Full-Stack Developer specialized in **React & Golang**
 Focused on **scalable applications, clean architecture, and problem solving**  
 Passionate about **modern JavaScript, Redux, and Tailwind**  
 Always learning and building impactful solutions  
+
+---
+
 
 ---
 
@@ -69,6 +68,11 @@ Always learning and building impactful solutions
 ---
 
 <h3 align="center">✨ Let's Collaborate and Build Something Impactful ✨</h3>
+
+<!-- Footer Graph Animation (Snake Style) -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="95%" />
+</p> -->
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:36BCF7&height=120&section=footer" />
