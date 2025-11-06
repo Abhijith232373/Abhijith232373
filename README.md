@@ -11,7 +11,7 @@
 </p>
 
 ---
-##  CONTRIBUTION GRAPH   
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijith232373&theme=react-dark&hide_border=true&bg_color=0D1117&line=36BCF7&point=2C3E50&area=true" width="95%" />
 </p>
