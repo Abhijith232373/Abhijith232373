@@ -3,7 +3,7 @@
 
 <!-- Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:2C3E50&height=100&section=header" /> 
-<img align="right" src="goimg-removebg-preview.png" width="120px">
+<img align="left" src="goimg-removebg-preview.png" width="120px">
 
 <!-- Typing Intro -->  
 <p align="center">
