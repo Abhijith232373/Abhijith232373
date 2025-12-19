@@ -36,34 +36,39 @@
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,go,md" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,go,postgres,md" height="50" />
 </p>
+
 
 ---
 
 ##  About Me  
-Full-Stack Developer specialized in **React & Golang**  
-Focused on **scalable applications, clean architecture, and problem solving**  
-Passionate about **modern JavaScript, Redux, and Tailwind**  
-Always learning and building impactful solutions  
+Full-Stack Developer with a strong focus on backend development using Golang.
+I enjoy building scalable, maintainable systems with clean architecture and well-designed APIs.
 
----
+I have hands-on experience with React on the frontend and a solid foundation in modern JavaScript, Redux, and Tailwind CSS.
+Currently, I’m deeply focused on backend engineering, working with Golang, Gin, GORM, and PostgreSQL to build reliable, production-ready applications.
 
+Always learning, experimenting, and solving problems through real-world projects.
 
 ---
 
 ##  Connect ME ON 
 <p align="center">
   <a href="https://linkedin.com/in/abhijith-p-r--" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/abhijith_pr" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://dev.to/abhijithhh_" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/>
   </a>
   <a href="https://instagram.com/_.abhi_jith_._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
 
 ---
 
