@@ -23,6 +23,10 @@
 <img align="right" src="go2-removebg-preview.png" width="120px"/>
 </p>
 
+## Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,go,postgres,md" height="50" />
+</p>
 ---
 
 <!--## 🧠 Profile Highlights -->  
@@ -34,10 +38,6 @@
 
 ---
 
-## Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,go,postgres,md" height="50" />
-</p>
 
 
 ---
