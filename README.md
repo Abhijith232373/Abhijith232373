@@ -18,14 +18,14 @@
 
 <!--## 🚀 GitHub Insights  -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="170" />
+<img align="right" src="go2-removebg-preview.png" width="120px"/>
 </p>
 
 ---
 
 <!--## 🧠 Profile Highlights -->  
-<img align="right" src="go2-removebg-preview.png" width="120px"/>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" height="180" />
