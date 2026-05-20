@@ -1,4 +1,7 @@
 <!-- Background Wrapper with Tech Wallpaper -->
+<div align="right">
+  <img src="https://img.shields.io/badge/🔥_Longest_Streak-111-FFFC00?style=for-the-badge&logoColor=black&labelColor=black" alt="Streak" />
+</div>
 <div align="center" style="background: url('https://i.ibb.co/v4j1z6d/tech-dark-bg.jpg') no-repeat center center fixed; background-size: cover; padding: 30px 0; border-radius: 12px;">
 
 <!-- Header Wave -->
@@ -19,15 +22,34 @@
 <!--## 🚀 GitHub Insights  -->
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Abhijith232373&show_icons=true&theme=tokyonight&hide_border=true" height="170" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="170" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhijith232373&theme=tokyonight&hide_border=true" height="170" /> -->
 <img align="right" src="go2-removebg-preview.png" width="120px"/>
 </p>
 
-## Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,go,postgres,md" height="50" />
-</p>
----
+<h3>💻 Tech Stack</h3>
+
+<table width="100%">
+  <tr>
+    <th width="25%" align="left">Category</th>
+    <th width="75%" align="left">Technologies</th>
+  </tr>
+  <tr>
+    <td><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" height="45" /></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend & Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,postgres,redis" height="45" /></td>
+  </tr>
+  <tr>
+    <td><b>🛠️ Tools & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,md,postman,docker,kubernetes,portainer" height="45" /></td>
+  </tr>
+  <tr>
+    <td><b>🖥️ Operating Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,windows" height="45" /></td>
+  </tr>
+</table>
 
 <!--## 🧠 Profile Highlights -->  
 
@@ -42,14 +64,12 @@
 
 ---
 
-##  About Me  
-Full-Stack Developer with a strong focus on backend development using Golang.
-I enjoy building scalable, maintainable systems with clean architecture and well-designed APIs.
+### 👋 About Me
 
-I have hands-on experience with React on the frontend and a solid foundation in modern JavaScript, Redux, and Tailwind CSS.
-Currently, I’m deeply focused on backend engineering, working with Golang, Gin, GORM, and PostgreSQL to build reliable, production-ready applications.
-
-Always learning, experimenting, and solving problems through real-world projects.
+* 💻 Fullstack developer with a background bridging **React** and **Go**.
+* ⚙️ Currently hyper-focused on the "deep backend" phase: mastering **Golang** and **Microservices architecture**.
+* 🧠 Passionate about writing highly efficient, optimized code by leveraging core data structures (trees, graphs, queues) and advanced sorting algorithms.
+* 🚀 Driven by building robust, scalable systems and solving complex backend challenges.
 
 ---
 
