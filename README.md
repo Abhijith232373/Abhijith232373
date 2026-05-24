@@ -28,7 +28,7 @@
 
 <h3>💻 Tech Stack</h3>
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <th width="25%" align="left">Category</th>
     <th width="75%" align="left">Technologies</th>
@@ -49,8 +49,40 @@
     <td><b>🖥️ Operating Systems</b></td>
     <td><img src="https://skillicons.dev/icons?i=linux,windows" height="45" /></td>
   </tr>
+</table> -->
+
+<table align="center">
+
+  <tr>
+    <td align="center"><img src="https://miro.medium.com/v2/resize:fit:500/1*lSUb1T4YW1td0UskwsGZ1w.gif" alt="Go" width="55"/><br><b>Go</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="55"/><br><b>Gin</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62"/><br><b>REST API</b></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="GORM" width="55"/><br><b>GORM</b></td>
+    <td align="center"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="55"/><br><b>JWT</b</td>
+    <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-line.svg" /><br><b>Fiber</b></td>  
+  </tr>
+  <tr>
+     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><br><b>Redis</b></td> 
+    <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br><b>Docker</b</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
+    <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
+    <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Kafka</b></td>
+    
+  </tr>
+  
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55"/><br><b>HTML5</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55"/><br><b>CSS3</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65"/><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55"/><br><b>TailwindCSS</b></td>
+ </tr>
+ 
 </table>
 
+***
 <!--## 🧠 Profile Highlights -->  
 
 <p align="center">
@@ -101,5 +133,7 @@
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:36BCF7&height=120&section=footer" />
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tvaXlqMnJmN2RiM2oxdjh0ZXlkcTkwcGxzYXh2MHhkeWU4bXpvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" alt="MasterHead" width="100%" /> -->
+
 
 </div>
