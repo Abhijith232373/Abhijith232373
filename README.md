@@ -61,13 +61,15 @@
     <td align="center"><img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="GORM" width="55"/><br><b>GORM</b></td>
     <td align="center"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="55"/><br><b>JWT</b</td>
     <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fiber/fiber-line.svg" /><br><b>Fiber</b></td>  
+    <td align="center"> <img src="https://devicon-website.vercel.app/api/graphql/plain.svg" /><br><b>Graphql</b></td>  
   </tr>
   <tr>
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><br><b>Redis</b></td> 
     <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br><b>Docker</b</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
     <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
-    <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"alt="kafka" width="48"/><br><b>Kafka</b></td>
+    <td align="center"> <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23976471"alt="kafka" width="48"/><br><b>Kafka</b></td>
+    <td align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0GotAGXrAE49WpZlOvndF5w99JWfOEo00Q&s"alt="Websocket" width="48"/><br><b>Websocket</b></td>
     
   </tr>
   
@@ -78,6 +80,13 @@
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65"/><br><b>React</b></td>
     <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65"/><br><b>Redux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="55"/><br><b>TailwindCSS</b></td>
+    <td align="center"><img src="https://devicon-website.vercel.app/api/wordpress/original.svg" width="55"/><br><b>Wordpress</b></td>
+ </tr>
+ <tr>
+    <td align="center"><img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" alt="ubuntu" width="55"/><br><b>Ubundu</b></td>
+    <td align="center"><img src="https://devicon-website.vercel.app/api/windows8/original.svg" alt="Windows" width="55"/><br><b>Windows</b></td>
+    <td align="center"><img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vscode" width="55"/><br><b>Vscode</b></td>
+   
  </tr>
  
 </table>
@@ -86,8 +95,8 @@
 <!--## 🧠 Profile Highlights -->  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" width="500" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" width="500" height="180" />
 </p>
 
 ---
@@ -96,35 +105,32 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 
-* 💻 Fullstack developer with a background bridging **React** and **Go**.
-* ⚙️ Currently hyper-focused on the "deep backend" phase: mastering **Golang** and **Microservices architecture**.
-* 🧠 Passionate about writing highly efficient, optimized code by leveraging core data structures (trees, graphs, queues) and advanced sorting algorithms.
-* 🚀 Driven by building robust, scalable systems and solving complex backend challenges.
+I'm a Fullstack Developer specializing in **Go**, with a strong focus on building performant, scalable backend systems. I work across the full stack using **Go** and **React**, but my deepest expertise lies in the Go ecosystem — from designing clean APIs to crafting efficient, concurrent services.I care about writing code that is simple, readable, and built to last. Whether it's a high-throughput backend service or a responsive frontend interface, I bring the same level of precision and intent to every layer of the stack.
 
 ---
 
 ##  Connect ME ON 
 <p align="center">
   <a href="https://linkedin.com/in/abhijith-p-r--" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj" width="50" alt="LinkedIn"/>
+  </a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/abhijith_pr" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-  </a>
+    <img src="https://leetcode.com/static/images/LeetCode_Sharing.png" width="50" alt="LeetCode"/>
+  </a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/abhijithhh_" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/>
-  </a>
+    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/original_logo_0DliJcfsTcciZen38gX9.png" width="50" alt="DEV Community"/>
+  </a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/_.abhi_jith_._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/3840px-Instagram_icon.png" width="50" alt="Instagram"/>
   </a>
 </p>
 
 
 ---
 
-<h3 align="center">✨ Let's Collaborate and Build Something Impactful ✨</h3>
+<h3 align="center"> Let's Collaborate and Build Something Impactful </h3>
 
 <!-- Footer Graph Animation (Snake Style) -->
 <!-- <p align="center">
