@@ -98,8 +98,8 @@
 <!--## 🧠 Profile Highlights -->  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" width="500" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" width="500" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhijith232373&theme=tokyonight" width="400" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhijith232373&theme=tokyonight" width="400" height="180" />
 </p>
 
 ---
