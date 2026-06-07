@@ -65,13 +65,15 @@
   </tr>
   <tr>
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><br><b>Redis</b></td> 
-    <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br><b>Docker</b</td>
+    <td align="center"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" /><br><b>Docker</b</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
     <td align="center"> <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23976471"alt="kafka" width="48"/><br><b>Kafka</b></td>
     <td align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0GotAGXrAE49WpZlOvndF5w99JWfOEo00Q&s"alt="Websocket" width="48"/><br><b>Websocket</b></td>
+    <td align="center"> <img src="https://devicon-website.vercel.app/api/git/original.svg"alt="Git" width="48"/><br><b>Git</b></td>
+    <td align="center"> <img src="https://techstack-generator.vercel.app/github-icon.svg"alt="Github" width="48"/><br><b>Github</b></td>
+    <td align="center"> <img src="https://techstack-generator.vercel.app/aws-icon.svg"alt="Aws" width="48"/><br><b>Aws</b></td>
     
   </tr>
-  
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55"/><br><b>HTML5</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="55"/><br><b>CSS3</b></td>
