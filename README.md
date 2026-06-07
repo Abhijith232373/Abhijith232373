@@ -67,7 +67,6 @@
      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><br><b>Redis</b></td> 
     <td align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><br><b>Docker</b</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55"/><br><b>Postman</b></td>
-    <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
     <td align="center"> <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23976471"alt="kafka" width="48"/><br><b>Kafka</b></td>
     <td align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0GotAGXrAE49WpZlOvndF5w99JWfOEo00Q&s"alt="Websocket" width="48"/><br><b>Websocket</b></td>
     
@@ -86,6 +85,8 @@
     <td align="center"><img src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" alt="ubuntu" width="55"/><br><b>Ubundu</b></td>
     <td align="center"><img src="https://devicon-website.vercel.app/api/windows8/original.svg" alt="Windows" width="55"/><br><b>Windows</b></td>
     <td align="center"><img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="vscode" width="55"/><br><b>Vscode</b></td>
+    <td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png"alt="Notion" width="48"/><br><b>Notion</b></td>
+    <td align="center"> <img src="https://devicon-website.vercel.app/api/markdown/original.svg"alt="markdown" width="48"/><br><b>markdown</b></td>
    
  </tr>
  
